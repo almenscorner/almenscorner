@@ -6,7 +6,7 @@ human = {
     'name':'Tobias Almén',
     'awards':'Microsoft MVP - Enterprise Mobility',
     'certifications': ['Microsoft','Jamf','Android Enterprise'],
-    'work':'CyagteAB',
+    'work':'CygateAB',
     'loves': ['motorcycles','death metal','The cats']
 }
 ```

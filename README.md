@@ -29,4 +29,18 @@ So, my name is Tobias and,
 - 🤘 I love death metal
 - 🌴 All info can be found on my linktree: https://linktr.ee/almenscorner
 
-![Tobias stats](https://github-readme-stats.vercel.app/api?username=almenscorner&show_icons=true)
+![Tobias stats](https://github-readme-stats.vercel.app/api?username=almenscorner&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almenscorner&theme=dark"/>
+
+<a href="https://www.linkedin.com/in/tobiasalmen/">
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://twitter.com/almenscorner">
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png"/>
+</a>
+<a href="https://discordapp.com/users/almenscorner#6355">
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-256.png"/>
+</a>
+<a href="https://slack.com/app_redirect?channel=U021PJ54KQU">
+    <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-256.png"/>
+</a>

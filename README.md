@@ -43,5 +43,6 @@ So, my name is Tobias and,
 <a href="https://slack.com/app_redirect?channel=U021PJ54KQU">
     <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-256.png"/>
 </a>
-
-<a rel="me" href="https://mastodon.social/@almenscorner">Mastodon</a>
+<a href="https://mastodon.social/@almenscorner">
+    <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/207_Mastodon_logo_logos-1024.png"/>
+</a>

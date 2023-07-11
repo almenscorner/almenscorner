@@ -19,14 +19,14 @@ If you find the projects useful, you can support me by buying a coffee,
 So, my name is Tobias and,
 
 - ✍️ I blog about macOS,iOS/iPadOS,Android management and automation on: https://almenscorner.io
-- 🐦 I'm on Twitter: https://twitter.com/almenscorner
-- 🖇 I'm on LinkedIn https://www.linkedin.com/in/tobiasalmen/
-- 🏆 I'm a Microsoft MVP for Enterprise Mobility: https://mvp.microsoft.com/en-us/PublicProfile/5004676?fullName=Tobias%20Alm%C3%A9n
+- 🐦 I'm on [Twitter](https://twitter.com/almenscorner)
+- 🖇 I'm on [LinkedIn](https://www.linkedin.com/in/tobiasalmen/)
+- 🏆 I'm a [Microsoft MVP for Enterprise Mobility](https://mvp.microsoft.com/en-us/PublicProfile/5004676?fullName=Tobias%20Alm%C3%A9n)
 - 👀 I'm working on improving my GitHub stats
 - 👨‍💻 I'm not a dev but fascinated by code and trying to improve
 - 🏍 I love motorcycles
 - 🤘 I love death metal
-- 🌴 All info can be found on my linktree: https://linktr.ee/almenscorner
+- 🌴 All info can be found on my [linktree](https://linktr.ee/almenscorner)
 
 ![Tobias stats](https://github-readme-stats.vercel.app/api?username=almenscorner&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=almenscorner&theme=dark"/>

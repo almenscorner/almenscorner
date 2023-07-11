@@ -21,6 +21,7 @@ So, my name is Tobias and,
 - ✍️ I blog about macOS,iOS/iPadOS,Android management and automation on: https://almenscorner.io
 - 🐦 I'm on [Twitter](https://twitter.com/almenscorner)
 - 🖇 I'm on [LinkedIn](https://www.linkedin.com/in/tobiasalmen/)
+- 🐘 I'm on [Mastodon](https://mastodon.social/@almenscorner)
 - 🏆 I'm a [Microsoft MVP for Enterprise Mobility](https://mvp.microsoft.com/en-us/PublicProfile/5004676?fullName=Tobias%20Alm%C3%A9n)
 - 👀 I'm working on improving my GitHub stats
 - 👨‍💻 I'm not a dev but fascinated by code and trying to improve

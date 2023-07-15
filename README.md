@@ -3,11 +3,11 @@ Quick intro the nerdy way,
 
 ```python
 human = {
-    'name':'Tobias Almén',
-    'awards':'Microsoft MVP - Enterprise Mobility',
-    'certifications': ['Microsoft','Jamf','Android Enterprise'],
-    'work':'ASSA ABLOY',
-    'loves': ['motorcycles','death metal','The cats']
+    'name': 'Tobias Almén',
+    'awards': 'Microsoft MVP - Enterprise Mobility',
+    'certifications': ['Microsoft', 'Jamf', 'Android Enterprise'],
+    'work': 'ASSA ABLOY',
+    'loves': ['motorcycles', 'death metal', 'The cats']
 }
 ```
 
